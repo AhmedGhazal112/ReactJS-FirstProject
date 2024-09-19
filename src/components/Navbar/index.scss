@@ -1,0 +1,19 @@
+.navbar {
+  margin: 50px;
+  display: flex;
+  justify-content: space-evenly;
+
+  li a,
+  button {
+    padding: 15px;
+    color: white;
+    background-color: black;
+    width: 70px;
+    height: 23px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+  }
+}

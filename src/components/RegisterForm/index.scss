@@ -1,0 +1,19 @@
+.login-form {
+  .input-wrapper {
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    label {
+      margin-bottom: 5px;
+    }
+    input{
+        border: 3px solid black;
+        padding: 15px;
+        border-radius: 8px;
+        -webkit-border-radius: 8px;
+        -moz-border-radius: 8px;
+        -ms-border-radius: 8px;
+        -o-border-radius: 8px;
+}
+  }
+}
